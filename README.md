@@ -1,6 +1,6 @@
-Proste Api do zarządzania kodami promocyjnymi
+## Proste Api do zarządzania kodami promocyjnymi
 
-Założenia:
+### Założenia:
 - Kod składa się z: nazwy, kodu (unikalnego ciągu znaków), ilości możliwych wyświetleń (pobrań),
 informacji czy jest aktywny.
 - Każdorazowe pobranie kodu (wyświetlenie) zmniejsza ilość możliwych wyświetleń.
@@ -10,7 +10,7 @@ informacji czy jest aktywny.
 - Kody przechowują informację o tym kiedy zostały wykorzystane
 - Kody są przechowywane na prostym mongoDB stawianym na dockerze
 
-Aplikacja umożliwia: 
+### Aplikacja umożliwia: 
 - Dodanie nowego kodu.
 - Możliwość zmiany nazwy kodu promocyjnego.
 - Pobranie kodu (wpływa na wyświetlenie kodu).
