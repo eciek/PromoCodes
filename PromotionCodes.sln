@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionCodes", "PromotionCodes\PromotionCodes.csproj", "{588A59BA-34E2-4C19-A55A-9FAE4EC1B35D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionCodes.Tests", "PromotionCodes.Tests\PromotionCodes.Tests.csproj", "{A732A03F-A0BC-43F7-BC6B-15B97CCFA855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588A59BA-34E2-4C19-A55A-9FAE4EC1B35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588A59BA-34E2-4C19-A55A-9FAE4EC1B35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588A59BA-34E2-4C19-A55A-9FAE4EC1B35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588A59BA-34E2-4C19-A55A-9FAE4EC1B35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A732A03F-A0BC-43F7-BC6B-15B97CCFA855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A732A03F-A0BC-43F7-BC6B-15B97CCFA855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A732A03F-A0BC-43F7-BC6B-15B97CCFA855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A732A03F-A0BC-43F7-BC6B-15B97CCFA855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429FEB69-BB3C-4DBD-BE27-CACC8A3238E8}
+	EndGlobalSection
+EndGlobal
